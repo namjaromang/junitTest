@@ -1,2 +1,6 @@
-# junitTest
-test code everyday life
+#JUNIT TEST 
+TEST CODE EVERYDAY LIFE
+
+#1일 1커밋 챌린지(2022-02-20
+
+)
